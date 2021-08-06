@@ -36,6 +36,8 @@ The main branche is our default branch.
 
 ## JSON
 
+## Batch Files
+
 ## Logs
 
 ## VSCode Snippets
