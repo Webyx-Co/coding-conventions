@@ -6,10 +6,23 @@
 ### Classes
 
 ## JavaScript
-- Constants: Upper Case Snake Case
-- Variables: Camel Case
-- Classes: Pascal Case
 
+### Constants
+- **Case:** Upper Case Snake Case
+
+> `MY_AWESOME_CONSTANT`
+    
+### Variables: Camel Case
+- **Case:** Camel Case
+
+> `myAwesomeVar`
+    
+### Classes: Pascal Case
+- **Case:** Pascal Case
+
+> `myAwesomeClass`
+    
+    
 ## TypeScript
 
 ## React and NextJS
@@ -22,30 +35,62 @@
 
 ## SQL
 ### Databases
-- Snake case
+
+- **Case:** Snake Case
+
+> `main_database`
+
 ### Tables
 
 #### Table name
-- Always plural
-- Snake case
+
+- **Case:** Snake Case
+
+```main_database```
+
+> Always preffer plural nouns
 
 #### Table fields
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_table`
+
+#### Table constraints
+
+- **Case:** Snake Case
+
+> `awesome_constraint`
 
 ### Functions
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_function`
 
 ### Procedures
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_procedure`
 
 ### Views
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_view`
 
 ### Triggers
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_trigger`
 
 ### Users
-- Snake case
+
+- **Case:** Snake Case
+
+> `awesome_user`
 
 ## Strapi
 ### Collection Types and Single Types
@@ -53,7 +98,7 @@
 - Collection name: snake case and plural
 - Fields: snake case
 
-- If you want to alter the plural displayed name at the left menu, you can go into api\yourType\models\yourType.settings.json and add the "displayName" key to info object.
+> If you want to alter the plural displayed name at the left menu, you can go into api\yourType\models\yourType.settings.json and add the "displayName" key to info object.
 
 ### Components
 - Name: Title case and singular
@@ -62,7 +107,10 @@
 
 ## Git
 ### Branches
-The main branche is our default branch.
+Our default branch name is "main". Ir order to your `git init` always use that terminology, just run the command bellow on yor machine.
+
+```git config --global init.defaultBranch main```
+
 Use snake case
 
 ### Commits
