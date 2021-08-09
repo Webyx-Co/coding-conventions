@@ -115,7 +115,9 @@ Our default branch name is "main". Ir order to your `git init` always use that t
 Use snake case
 
 ### Commits
-### Releases & Tags
+### Tags & Releases
+We use semantic version on our tags, using the pattern X.Y.Z-release.build.
+
 #### Semantic Versioning
 ### Pull Requests
 ### Packages
@@ -130,5 +132,5 @@ Use snake case
 
 ## Good Pratices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTE4NTM2NF19
+eyJoaXN0b3J5IjpbLTg3MDM2NzAxOV19
 -->
