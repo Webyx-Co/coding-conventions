@@ -1,4 +1,4 @@
-# Coding Conventions of Webyx Co.
+# Webyx's Coding Conventions 
 
 ## HTML
 
@@ -37,6 +37,7 @@
 ## Jest
 
 ## SQL
+
 ### Databases
 
 - **Case:** Snake Case
@@ -96,7 +97,9 @@
 > `awesome_user`
 
 ## Strapi
+
 ### Collection Types and Single Types
+
 - **Display name:** Title case and singular
 - **Collection name:** Snake case and plural
 - **Fields:** Snake case
@@ -104,11 +107,13 @@
 > If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json and add a "displayName" key with the desired name into the info object.
 
 ### Components
-- Name: Title case and singular
-- Collection name: snake case and plural
-- Fields: snake case
+
+- **Name:** Title case and singular
+- **Collection name:** snake case and plural
+- **Fields:** snake case
 
 ## Git
+
 ### Branches
 We use as our default branch name the word "main". Ir order to your `git init` always use that terminology, just run the command bellow on your machine.
 
@@ -122,8 +127,8 @@ In order to better organize your commits, we use the [Conventional Commits](http
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
-#### Semantic Versioning
 ### Pull Requests
+
 ### Packages
 
 ## JSON
@@ -134,7 +139,7 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## VSCode Snippets
 
-## Good Pratices
+## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDE1NzE1OSwtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbLTE5ODAxNDA1MjUsLTg3MDM2NzAxOV19
 -->
