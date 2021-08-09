@@ -108,7 +108,7 @@
 
 ## Git
 ### Branches
-Our default branch name is "main". Ir order to your `git init` always use that terminology, just run the command bellow on yor machine.
+We use as our default branch name the word "main". Ir order to your `git init` always use that terminology, just run the command bellow on your machine.
 
 ```git config --global init.defaultBranch main```
 
@@ -132,5 +132,5 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Pratices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjQwODMwMiwtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMTAwNzUzODAyNywtODcwMzY3MDE5XX0=
 -->
