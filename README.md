@@ -10,14 +10,15 @@
 7. [GraphQL](#graphql)
 8. [Jest](#jest)
 9. [SQL](#sql)
-10. [Strapi](#strapi)
-11. [JSON](#json)
-12. [YAML](#yaml)
-13. [Batch Files](#batch-files)
-14. [Logs](#logs)
-15. [VSCode Snippets](#vscode-snippets)
-16. [Documentations](#documentations)
-17. [Other Good Practices](#other-good-practices)
+10. [Git](#git) 
+11. [Strapi](#strapi)
+12. [JSON](#json)
+13. [YAML](#yaml)
+14. [Batch Files](#batch-files)
+15. [Logs](#logs)
+16. [VSCode Snippets](#vscode-snippets)
+17. [Documentations](#documentations)
+18. [Other Good Practices](#other-good-practices)
 
 ## Preferred Tools
 
@@ -191,6 +192,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE2NDUxNTQsLTQxMTQwODk2OSwtOD
-cwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMjExNzUzNzYxOSwtMTU0MTY0NTE1NCwtND
+ExNDA4OTY5LC04NzAzNjcwMTldfQ==
 -->
