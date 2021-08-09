@@ -155,16 +155,18 @@ Use snake case
 ### Commits
 In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.  The commits have two required fields and three optional ones, that are:
 
- - Type
- - Scope
- - Short description
- - Body
- - Footer
+ - Type: 
+ - Scope: 
+ - Short description:
+ - Body:
+ - Footer:
  
- > We recommend to always commit your code as your code, fix bugs or develop new features, so our changelog may be more organized and the maintenance more easier.
+ > We recommend to always commit your code as your code, whether fixing bugs or developing new features, so our changelog may be more organized and the maintenance more easier.
 
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
+
+> Our recommendation to new project is to only start versioning when your pass from proof of concept / proto
 
 ### Pull Requests
 
@@ -180,6 +182,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0OTI2OTEsLTQxMTQwODk2OSwtOD
-cwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMTk1MzEwMDY4MCwtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
