@@ -50,9 +50,25 @@
 
 ## Storybook
 
-## GraphQL
-
 ## Jest
+
+## Strapi
+
+### Collection Types and Single Types
+
+- **Display name:** Title case and singular
+- **Collection name:** Snake case and plural
+- **Fields:** Snake case
+
+> If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json and add a "displayName" key with the desired name into the info object.
+
+### Components
+
+- **Name:** Title case and singular
+- **Collection name:** snake case and plural
+- **Fields:** snake case
+
+## GraphQL
 
 ## SQL
 
@@ -114,22 +130,6 @@
 
 > `awesome_user`
 
-## Strapi
-
-### Collection Types and Single Types
-
-- **Display name:** Title case and singular
-- **Collection name:** Snake case and plural
-- **Fields:** Snake case
-
-> If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json and add a "displayName" key with the desired name into the info object.
-
-### Components
-
-- **Name:** Title case and singular
-- **Collection name:** snake case and plural
-- **Fields:** snake case
-
 ## Git
 
 ### Branches
@@ -140,7 +140,7 @@ We use as our default branch name the word "main". Ir order to your `git init` a
 Use snake case
 
 ### Commits
-In order to better organize your commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.
+In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern. 
 
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
@@ -159,6 +159,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMTI0ODMyLC00MTE0MDg5NjksLTg3MD
-M2NzAxOV19
+eyJoaXN0b3J5IjpbLTEwNTQ5ODc5ODEsLTQxMTQwODk2OSwtOD
+cwMzY3MDE5XX0=
 -->
