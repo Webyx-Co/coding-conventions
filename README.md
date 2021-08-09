@@ -1,9 +1,9 @@
 # Webyx's Coding Conventions 
 
 ## Table of Contents
-1. [Example](#html)
-2. [Example2](#css)
-3. [Third Example](#third-example)
+1. [HTML](##html)
+2. [Strapi](##strapi)
+3. [Git](##git)
 
 ## HTML
 
@@ -146,6 +146,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDM4MTQ2NSwtNDExNDA4OTY5LC04Nz
-AzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbLTIwNTExNDYzNzksLTQxMTQwODk2OSwtOD
+cwMzY3MDE5XX0=
 -->
