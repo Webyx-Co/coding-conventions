@@ -24,7 +24,7 @@ Our default code editor is the Visual Studio Code. As the most well evalueted ed
 
 ### Custom Extension Packs
 
-We also have some own extensions packs with the intention to increase our productivity and facilitate our work.
+We also have some own extensions packs with the intention to increase our productivity and simplify our work.
 
  - [WebDev Extension Pack](https://marketplace.visualstudio.com/manage/publishers/webyxco/extensions/vscode-webdev-pack/hub)
  - [Useful Tools Extension Pack](https://marketplace.visualstudio.com/manage/publishers/webyxco/extensions/vscode-usefultools-pack/hub)
@@ -153,7 +153,7 @@ We use as our default branch name the word "main". Ir order to your `git init` a
 Use snake case
 
 ### Commits
-In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern. 
+In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.  The
 
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
@@ -172,6 +172,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMjM5MDQ3LC00MTE0MDg5NjksLTg3MD
+eyJoaXN0b3J5IjpbNTEzMDMwMjExLC00MTE0MDg5NjksLTg3MD
 M2NzAxOV19
 -->
