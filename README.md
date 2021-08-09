@@ -153,7 +153,15 @@ We use as our default branch name the word "main". Ir order to your `git init` a
 Use snake case
 
 ### Commits
-In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.  The
+In order to better organize our commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.  The commits have two required fields and three optional ones, that are:
+
+ - Type
+ - Scope
+ - Short description
+ - Body
+ - Footer
+ 
+ > We recommend to always 
 
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
@@ -172,6 +180,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMDMwMjExLC00MTE0MDg5NjksLTg3MD
-M2NzAxOV19
+eyJoaXN0b3J5IjpbLTIxMjg4MjM5MTIsLTQxMTQwODk2OSwtOD
+cwMzY3MDE5XX0=
 -->
