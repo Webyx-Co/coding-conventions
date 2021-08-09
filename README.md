@@ -3,20 +3,20 @@
 ## Table of Contents
 1. [HTML](#html)
 2. [CSS](#css)
-3. [JavaScript](#css)
-4. [TypeScript](#css)
-5. [React and NextJS](#css)
-6. [Storybook](#css)
-7. [GraphQL](#css)
-8. [Jest](#css)
-9. [SQL](#css)
-10. [Strapi](#css)
-11. [JSON](#css)
-12. [YAML](#css)
-13. [Batch Files](#css)
-14. [Logs](#css)
-15. [Strapi](#strapi)
-16. [Git](#git)
+3. [JavaScript](#javascript)
+4. [TypeScript](#typescript)
+5. [React and NextJS](#reactandnextjs)
+6. [Storybook](#storybook)
+7. [GraphQL](#graphql)
+8. [Jest](#jest)
+9. [SQL](#sql)
+10. [Strapi](#strapi)
+11. [JSON](#json)
+12. [YAML](#yaml)
+13. [Batch Files](#batchfiles)
+14. [Logs](#logs)
+15. [VSCode Snippets](#vscodesnippets)
+16. [Other Good Practices](#othergoodpractices)
 
 ## HTML
 
@@ -157,8 +157,8 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## VSCode Snippets
 
-## Good Practices
+## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjIyNTkyOSwtNDExNDA4OTY5LC04Nz
+eyJoaXN0b3J5IjpbLTg4MTA5NDIzNCwtNDExNDA4OTY5LC04Nz
 AzNjcwMTldfQ==
 -->
