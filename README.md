@@ -1,12 +1,6 @@
 # Webyx's Coding Conventions 
 
-This is the table of contents
-
-[TOC]
-[[_TOC_]]
-[toc]
-
-## Summary
+## Table of Contents
 1. [HTML](#html)
 2. [CSS](#css)
 3. [JavaScript](#javascript)
@@ -198,6 +192,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM4NzYzOTQsMTQ4OTEzMDA0NCwtMT
-U0MTY0NTE1NCwtNDExNDA4OTY5LC04NzAzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbODgxMDE4OTQ5LDE0ODkxMzAwNDQsLTE1ND
+E2NDUxNTQsLTQxMTQwODk2OSwtODcwMzY3MDE5XX0=
 -->
