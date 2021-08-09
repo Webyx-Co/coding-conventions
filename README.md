@@ -166,7 +166,7 @@ In order to better organize our commits, we use the [Conventional Commits](https
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
-> Our recommendation to new project is to only start versioning when your pass from proof of concept / proto
+> Our recommendation to new project is to only start versioning when your pass from proof of concept / prototype to your first product code.
 
 ### Pull Requests
 
@@ -174,14 +174,20 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## JSON
 
+## YAML
+
 ## Batch Files
 
 ## Logs
 
 ## VSCode Snippets
 
+## Documentations
+
+We use the Markdown text for all our documentations and convert it to Word or PDF files as needed.
+
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzEwMDY4MCwtNDExNDA4OTY5LC04Nz
-AzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbODgyNTA5NDMwLC00MTE0MDg5NjksLTg3MD
+M2NzAxOV19
 -->
