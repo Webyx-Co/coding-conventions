@@ -1,6 +1,6 @@
 # Webyx's Coding Conventions 
 
-## Table of Contents
+## Summary
 1. [HTML](#html)
 2. [CSS](#css)
 3. [JavaScript](#javascript)
@@ -187,8 +187,10 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 We use the Markdown text for all our documentations and convert it to Word or PDF files as needed.
 
+We always write our internal and external documentations in English and Portuguese, but we translate de external documentations as needed to your customers.
+
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjY2Mjk4LC00MTE0MDg5NjksLTg3MD
-M2NzAxOV19
+eyJoaXN0b3J5IjpbMTA3MTY5NjQzNCwtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
