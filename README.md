@@ -5,7 +5,7 @@
 2. [CSS](#css)
 3. [JavaScript](#javascript)
 4. [TypeScript](#typescript)
-5. [React and NextJS](#reactandnextjs)
+5. [React and NextJS](#react-and-nextjs)
 6. [Storybook](#storybook)
 7. [GraphQL](#graphql)
 8. [Jest](#jest)
@@ -13,10 +13,10 @@
 10. [Strapi](#strapi)
 11. [JSON](#json)
 12. [YAML](#yaml)
-13. [Batch Files](#batchfiles)
+13. [Batch Files](#batch-files)
 14. [Logs](#logs)
-15. [VSCode Snippets](#vscodesnippets)
-16. [Other Good Practices](#othergoodpractices)
+15. [VSCode Snippets](#vscode-snippets)
+16. [Other Good Practices](#other-good-practices)
 
 ## HTML
 
@@ -159,6 +159,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTA5NDIzNCwtNDExNDA4OTY5LC04Nz
-AzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbNTAxMTI0ODMyLC00MTE0MDg5NjksLTg3MD
+M2NzAxOV19
 -->
