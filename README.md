@@ -1,9 +1,10 @@
 # Webyx's Coding Conventions 
 
 ## Table of Contents
-1. [HTML](##html)
-2. [Strapi](##strapi)
-3. [Git](##git)
+1. [HTML](#html)
+2. CSS
+3. [Strapi](#strapi)
+4. [Git](#git)
 
 ## HTML
 
@@ -146,6 +147,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTExNDYzNzksLTQxMTQwODk2OSwtOD
-cwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbLTM1MzQ4NjQwNywtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
