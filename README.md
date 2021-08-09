@@ -2,9 +2,22 @@
 
 ## Table of Contents
 1. [HTML](#html)
-2. CSS
-3. [Strapi](#strapi)
-4. [Git](#git)
+2. [CSS](#css)
+3. [JavaScript](#css)
+4. [TypeScript](#css)
+5. [React & NextJS](#css)
+6. [CSS](#css)
+7. [CSS](#css)
+8. [CSS](#css)
+9. [CSS](#css)
+10.[CSS](#css)
+[CSS](#css)
+[CSS](#css)
+[CSS](#css)
+[CSS](#css)
+[CSS](#css) 
+11. [Strapi](#strapi)
+12. [Git](#git)
 
 ## HTML
 
@@ -147,6 +160,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzQ4NjQwNywtNDExNDA4OTY5LC04Nz
-AzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbLTE5OTU3NTgwMDcsLTQxMTQwODk2OSwtOD
+cwMzY3MDE5XX0=
 -->
