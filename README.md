@@ -1,5 +1,10 @@
 # Webyx's Coding Conventions 
 
+## Table of Contents
+1. [Example](#html)
+2. [Example2](#css)
+3. [Third Example](#third-example)
+
 ## HTML
 
 ## CSS
@@ -141,5 +146,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTQwODk2OSwtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbLTUzMDM4MTQ2NSwtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
