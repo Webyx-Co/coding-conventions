@@ -75,7 +75,7 @@ We also have some own extensions packs with the intention to increase our produc
 - **Collection name:** Snake case and plural
 - **Fields:** Snake case
 
-> If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json and add a "displayName" key with the desired name into the info object.
+> If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json located inside your Strapi project and add a "displayName" key with the desired name into the info object.
 
 ### Components
 
@@ -192,6 +192,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUzMDU2MjcsLTE1NDE2NDUxNTQsLT
+eyJoaXN0b3J5IjpbLTE1NTUzODAwNzAsLTE1NDE2NDUxNTQsLT
 QxMTQwODk2OSwtODcwMzY3MDE5XX0=
 -->
