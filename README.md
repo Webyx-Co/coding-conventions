@@ -1,5 +1,9 @@
 # Webyx's Coding Conventions 
 
+This is the table of contents
+
+[TOC]
+
 ## Summary
 1. [HTML](#html)
 2. [CSS](#css)
@@ -192,6 +196,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzODAwNzAsLTE1NDE2NDUxNTQsLT
-QxMTQwODk2OSwtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMTQ4OTEzMDA0NCwtMTU0MTY0NTE1NCwtND
+ExNDA4OTY5LC04NzAzNjcwMTldfQ==
 -->
