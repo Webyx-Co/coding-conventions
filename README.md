@@ -165,9 +165,9 @@ In order to better organize our commits, we use the [Conventional Commits](https
  > We recommend to always commit your code as your code, whether fixing bugs or developing new features, so our changelog may be more organized and the maintenance more easier.
 
 ### Tags & Releases
-We use semantic version on our tags, using the pattern X.Y.Z-release.build.
+We use [Semantic Version](https://semver.org/) to versionate our project, using the pattern X.Y.Z-release.build.
 
-> Our recommendation to new project is to only start versioning when your pass from proof of concept / prototype to your first product code.
+> Our recommendation to new projects is to only start versioning when your pass from proof of concept / prototype to your first product code.
 
 ### Pull Requests
 
@@ -191,6 +191,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTY5NjQzNCwtNDExNDA4OTY5LC04Nz
+eyJoaXN0b3J5IjpbLTQxNDcyNDQ0MiwtNDExNDA4OTY5LC04Nz
 AzNjcwMTldfQ==
 -->
