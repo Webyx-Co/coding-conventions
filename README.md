@@ -5,19 +5,18 @@
 2. [CSS](#css)
 3. [JavaScript](#css)
 4. [TypeScript](#css)
-5. [React & NextJS](#css)
-6. [CSS](#css)
-7. [CSS](#css)
-8. [CSS](#css)
-9. [CSS](#css)
-10.[CSS](#css)
-[CSS](#css)
-[CSS](#css)
-[CSS](#css)
-[CSS](#css)
-[CSS](#css) 
-11. [Strapi](#strapi)
-12. [Git](#git)
+5. [React and NextJS](#css)
+6. [Storybook](#css)
+7. [GraphQL](#css)
+8. [Jest](#css)
+9. [SQL](#css)
+10. [Strapi](#css)
+11. [JSON](#css)
+12. [YAML](#css)
+13. [Batch Files](#css)
+14. [Logs](#css)
+15. [Strapi](#strapi)
+16. [Git](#git)
 
 ## HTML
 
@@ -47,7 +46,7 @@
     
 ## TypeScript
 
-## React & NextJS
+## React and NextJS
 
 ## Storybook
 
@@ -160,6 +159,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU3NTgwMDcsLTQxMTQwODk2OSwtOD
-cwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMTgzNjIyNTkyOSwtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
