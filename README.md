@@ -150,7 +150,7 @@ We also have some own extensions packs with the intention to increase our produc
 ### Branches
 We use as our default branch name the word "main". Ir order to your `git init` always use that terminology, just run the command bellow on your machine.
 
-```git config --global init.defaultBranch main```
+    git config --global init.defaultBranch main
 
 Use snake case
 
@@ -192,6 +192,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzUzNzYxOSwtMTU0MTY0NTE1NCwtND
-ExNDA4OTY5LC04NzAzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbLTExNTUzMDU2MjcsLTE1NDE2NDUxNTQsLT
+QxMTQwODk2OSwtODcwMzY3MDE5XX0=
 -->
