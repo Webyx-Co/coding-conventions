@@ -22,7 +22,13 @@
 
 Our default code editor is the Visual Studio Code. As the most well evalueted editor, we prefer to use his.
 
+### Custom Extension Packs
+
 We also have some own extensions packs with the intention to increase our productivity and facilitate our work.
+
+ - [WebDev Extension Pack](https://marketplace.visualstudio.com/manage/publishers/webyxco/extensions/vscode-webdev-pack/hub)
+ - [Useful Tools Extension Pack](https://marketplace.visualstudio.com/manage/publishers/webyxco/extensions/vscode-usefultools-pack/hub)
+ - [Git & GitHub Extension Pack](https://marketplace.visualstudio.com/manage/publishers/webyxco/extensions/vscode-gitandgithub-pack/hub)
 
 
 ## HTML
@@ -166,6 +172,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDA5MDAwNSwtNDExNDA4OTY5LC04Nz
-AzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbOTEzMjM5MDQ3LC00MTE0MDg5NjksLTg3MD
+M2NzAxOV19
 -->
