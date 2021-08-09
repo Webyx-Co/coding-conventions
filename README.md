@@ -16,11 +16,12 @@
 13. [Batch Files](#batch-files)
 14. [Logs](#logs)
 15. [VSCode Snippets](#vscode-snippets)
-16. [Other Good Practices](#other-good-practices)
+16. [Documentations](#documentations)
+17. [Other Good Practices](#other-good-practices)
 
-## Main Software
+## Preferred Tools
 
-Our default code editor is the Visual Studio Code. As the most well evalueted editor, we prefer to use his.
+Our default code editor is the Visual Studio Code. As the most well evaluated editor, we prefer to use his.
 
 ### Custom Extension Packs
 
@@ -188,6 +189,6 @@ We use the Markdown text for all our documentations and convert it to Word or PD
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNTA5NDMwLC00MTE0MDg5NjksLTg3MD
+eyJoaXN0b3J5IjpbLTM1MjY2Mjk4LC00MTE0MDg5NjksLTg3MD
 M2NzAxOV19
 -->
