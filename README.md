@@ -28,7 +28,7 @@
     
 ## TypeScript
 
-## React and NextJS
+## React & NextJS
 
 ## Storybook
 
@@ -46,7 +46,7 @@
 
 ### Tables
 
-#### Table name
+#### Table names
 
 - **Case:** Snake Case
 
@@ -141,5 +141,5 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAxNDA1MjUsLTg3MDM2NzAxOV19
+eyJoaXN0b3J5IjpbLTQxMTQwODk2OSwtODcwMzY3MDE5XX0=
 -->
