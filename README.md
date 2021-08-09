@@ -95,9 +95,9 @@
 
 ## Strapi
 ### Collection Types and Single Types
-- Display name: Title case and singular
-- Collection name: snake case and plural
-- Fields: snake case
+- **Display name:** Title case and singular
+- **Collection name:** Snake case and plural
+- **Fields:** Snake case
 
 > If you want to alter the plural displayed name at the left menu, you can go into api\yourType\models\yourType.settings.json and add the "displayName" key to info object.
 
@@ -132,5 +132,5 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Pratices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDM2NzAxOV19
+eyJoaXN0b3J5IjpbMTI5NjU2ODg1MywtODcwMzY3MDE5XX0=
 -->
