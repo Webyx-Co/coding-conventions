@@ -2,7 +2,7 @@
 
 This is the table of contents
 
-[TOC]
+[[_TOC_]]
 
 ## Summary
 1. [HTML](#html)
@@ -196,6 +196,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTEzMDA0NCwtMTU0MTY0NTE1NCwtND
-ExNDA4OTY5LC04NzAzNjcwMTldfQ==
+eyJoaXN0b3J5IjpbLTgyMDcyNDczNCwxNDg5MTMwMDQ0LC0xNT
+QxNjQ1MTU0LC00MTE0MDg5NjksLTg3MDM2NzAxOV19
 -->
