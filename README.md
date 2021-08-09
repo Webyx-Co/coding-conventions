@@ -1,4 +1,5 @@
 # Coding Conventions of Webyx Co.
+
 ## HTML
 
 ## CSS
@@ -128,3 +129,6 @@ Use snake case
 ## VSCode Snippets
 
 ## Good Pratices
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMyNTE4NTM2NF19
+-->
