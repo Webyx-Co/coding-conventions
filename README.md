@@ -161,7 +161,7 @@ In order to better organize our commits, we use the [Conventional Commits](https
  - Body
  - Footer
  
- > We recommend to always 
+ > We recommend to always commit your code as your code, fix bugs or develop new features, so our changelog may be more organized and the maintenance more easier.
 
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
@@ -180,6 +180,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg4MjM5MTIsLTQxMTQwODk2OSwtOD
+eyJoaXN0b3J5IjpbLTE0Mzk0OTI2OTEsLTQxMTQwODk2OSwtOD
 cwMzY3MDE5XX0=
 -->
