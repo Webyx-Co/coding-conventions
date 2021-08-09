@@ -22,7 +22,8 @@
 
 Our default code editor is the Visual Studio Code. As the most well evalueted editor, we prefer to use his.
 
-We also have some own extensions packs with the intention  
+We also have some own extensions packs with the intention to increase our productivity and facilitate our work.
+
 
 ## HTML
 
@@ -165,6 +166,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTc1NzM4OCwtNDExNDA4OTY5LC04Nz
+eyJoaXN0b3J5IjpbLTM4NDA5MDAwNSwtNDExNDA4OTY5LC04Nz
 AzNjcwMTldfQ==
 -->
