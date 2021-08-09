@@ -18,6 +18,12 @@
 15. [VSCode Snippets](#vscode-snippets)
 16. [Other Good Practices](#other-good-practices)
 
+## Main Software
+
+Our default code editor is the Visual Studio Code. As the most well evalueted editor, we prefer to use his.
+
+We also have some own extensions packs with the intention  
+
 ## HTML
 
 ## CSS
@@ -159,6 +165,6 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ5ODc5ODEsLTQxMTQwODk2OSwtOD
-cwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMjA5NTc1NzM4OCwtNDExNDA4OTY5LC04Nz
+AzNjcwMTldfQ==
 -->
