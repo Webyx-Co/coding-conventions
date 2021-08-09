@@ -3,7 +3,9 @@
 ## HTML
 
 ## CSS
+
 ### Ids
+
 ### Classes
 
 ## JavaScript
@@ -115,6 +117,8 @@ We use as our default branch name the word "main". Ir order to your `git init` a
 Use snake case
 
 ### Commits
+In order to better organize your commits, we use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) pattern.
+
 ### Tags & Releases
 We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
@@ -132,5 +136,5 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Pratices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzUzODAyNywtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbLTcxNDE1NzE1OSwtODcwMzY3MDE5XX0=
 -->
