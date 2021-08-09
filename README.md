@@ -99,7 +99,7 @@
 - **Collection name:** Snake case and plural
 - **Fields:** Snake case
 
-> If you want to alter the plural displayed name at the left menu, you can go into api\yourType\models\yourType.settings.json and add the "displayName" key to info object.
+> If you want to change the default plural name displayed at the left menu, you can go into api\yourType\models\yourType.settings.json and add a "displayName" key with the desired name into the info object.
 
 ### Components
 - Name: Title case and singular
@@ -132,5 +132,5 @@ We use semantic version on our tags, using the pattern X.Y.Z-release.build.
 
 ## Good Pratices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjU2ODg1MywtODcwMzY3MDE5XX0=
+eyJoaXN0b3J5IjpbMjExMjQwODMwMiwtODcwMzY3MDE5XX0=
 -->
