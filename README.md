@@ -27,9 +27,9 @@ Our default code editor is the Visual Studio Code. As the most well evaluated ed
 
 We also have some own extensions packs with the intention to increase our productivity and simplify our work.
 
- - [WebDev Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-webdev-pack/hub)
- - [Useful Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-usefultools-pack/hub)
- - [Git & GitHub Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-gitandgithub-pack/hub)
+ - [WebDev Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-webdev-pack)
+ - [Useful Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-usefultools-pack)
+ - [Git & GitHub Extension Pack](https://marketplace.visualstudio.com/items?itemName=WebyxCo.vscode-gitandgithub-pack)
 
 
 ## HTML
@@ -191,6 +191,6 @@ We always write our internal and external documentations in English and Portugue
 
 ## Other Good Practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjgwNzYwLC00MTE0MDg5NjksLTg3MD
-M2NzAxOV19
+eyJoaXN0b3J5IjpbLTE1NDE2NDUxNTQsLTQxMTQwODk2OSwtOD
+cwMzY3MDE5XX0=
 -->
